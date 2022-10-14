@@ -1,5 +1,0 @@
-AFTER,,,,,,,,
-Predicted Charge Off Borrowers (as of 2011),"Disbursement Gross (Jumlah pinjaman yang cair)
-",Total Disbursement Gross (Total pinjaman yang cair),Max Rate (Bunga tetap),Fees (Biaya pencairan pinjaman),Jumlah pinjaman covered by SBA,Backed up by Real Estate,Penalty (assuming pembayaran telat sampai bulan ke-11),Loss
--,Median Disbursement Gross,Jumlah Borrowers x Disbursement Gross,4.25% x Total Disbursement Gross,4% x Total Disbursement Gross,Median SBA_Appv,20% of Total Amount,"0,5% x 330 hari x Total Disbursement Gross",Total Disbursement Gross - Max Rate - Fees - Jumlah pinjaman covered by SBA
-19974,$173.178,$3.494.039.328,$148.496.671,$139.761.573,$131.248,$698.807.866,$5.765.164.891,-$3.258.322.921
