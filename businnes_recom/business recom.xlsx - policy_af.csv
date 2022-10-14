@@ -1,0 +1,6 @@
+AFTER,,,,,,
+Category of Prospective Borrowers ,Loan Amount,Maturity Period,Max rate (per year),Fees,SBA Percentage,Requirement (Real Estate) (NEW)
+Approved,"$25,000 or less",< 5 years,4.75%,2%,50%,Guaranteed by Real Estate or other assets with price: 20% of loan amount
+,"$25,000 to $50,000",< 15 years,3.75%,3%,50%,Guaranteed by Real Estate or other assets with price: 50% of loan amount
+,"> $50,000",< 25 years,2.75%,4%,50%,Guaranteed by Real Estate or other assets with price: 80% of loan amount
+Rejected,,-,-,-,-,-

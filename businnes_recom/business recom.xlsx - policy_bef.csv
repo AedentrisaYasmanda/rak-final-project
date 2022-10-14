@@ -1,0 +1,8 @@
+BEFORE,,,,,
+Category of Prospective Borrower,Loan Amount,Maturity Period,Max rate (per year),Fees,SBA Percentage
+-,"$25,000 or less",< 7 years,4.25%,2%,50%
+,,> 7 years,4.75%,2%,50%
+-,"$25,000 to $50,000",< 7 years,3.25%,3%,50%
+,,> 7 years,3.75%,3%,50%
+-,"> $50,000",< 7 years,2.25%,4%,50%
+,,> 7 years,2.75%,4%,50%
