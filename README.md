@@ -12,7 +12,7 @@ Out goal is to create a model that can predict whether a business's loan applica
 ## 📝Table of Contents
 
 
-*   [Dataset](https://www.kaggle.com/datasets/mirbektoktogaraev/should-this-loan-be-approved-or-denied)
+
 *   [How to Import Dataset Using Kaggle API](https://www.geeksforgeeks.org/how-to-import-kaggle-datasets-directly-into-google-colab/)
 *   [Explaratory Data Analysis (EDA)](https://github.com/AedentrisaYasmanda/rak-final-project/blob/main/notebooks/01_exploratory_data_analysis.ipynb)
 *   [Preprocessing and Modelling](https://github.com/AedentrisaYasmanda/rak-final-project/blob/main/notebooks/02_preprocessing.ipynb)
