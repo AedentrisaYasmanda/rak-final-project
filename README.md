@@ -16,8 +16,8 @@ Out goal is to create a model that can predict whether a business's loan applica
 *   [How to Import Dataset Using Kaggle API](https://www.geeksforgeeks.org/how-to-import-kaggle-datasets-directly-into-google-colab/)
 *   [Explaratory Data Analysis (EDA)](https://github.com/AedentrisaYasmanda/rak-final-project/blob/main/notebooks/01_exploratory_data_analysis.ipynb)
 *   [Preprocessing and Modelling](https://github.com/AedentrisaYasmanda/rak-final-project/blob/main/notebooks/02_preprocessing.ipynb)
-*   [Authors](https://github.com/AedentrisaYasmanda/rak-final-project/edit/main/README.md#-authors)
-*   [Acknowledgments](https://github.com/AedentrisaYasmanda/rak-final-project/edit/main/README.md#-acknowledgments)
+*   [Authors](https://github.com/AedentrisaYasmanda/rak-final-project/blob/main/README.md#-authors)
+*   [Acknowledgments](https://github.com/AedentrisaYasmanda/rak-final-project/blob/main/README.md#-acknowledgments)
 
 
 
